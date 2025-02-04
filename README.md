@@ -5,7 +5,7 @@ Core Features:
 User login (Firebase).
 Video chat (WebRTC).
 Basic chat (Socket.io).
-Fake matching logic
+Matching logic
 
 ## Tech Stack for the Soul Omegle Project 
 
