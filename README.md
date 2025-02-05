@@ -30,8 +30,4 @@ Real-Time Communication:
 simple-peer: WebRTC library for peer-to-peer video/audio calls.
 STUN/TURN Servers: For handling NAT traversal (public STUN server or own TURN server).
 
-Deployment:
-
-Render.com: For deploying both frontend and backend.
-Firebase Hosting (optional): For frontend deployment (React app).
 
